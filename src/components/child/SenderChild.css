@@ -1,0 +1,31 @@
+.sender-child {
+    width: 300px;
+    border: 15px solid rgb(28, 14, 229);
+    padding: 50px;
+    margin: 20px;
+    background-color: rgba(34, 172, 172, 0.468);
+    height: 130px;
+}
+
+.Receiver-Child {
+    width: 300px;
+    border: 15px solid rgb(28, 14, 229);
+    padding: 50px;
+    margin: 20px;
+    background-color: rgba(34, 172, 172, 0.468);
+    height: 130px;
+   
+
+}
+button{
+    transition-duration: 0.4s;
+    height: 50px;
+    width: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   
+    
+}
+  button:hover {
+    background-color: #af4cad; /* Green */
+    color: white;
+  }
